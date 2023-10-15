@@ -1,4 +1,4 @@
-# 01
+# 01 three c program functions:
 
 This repo contains three c program functions:
 - Max: Identify the highest between two numbers.
